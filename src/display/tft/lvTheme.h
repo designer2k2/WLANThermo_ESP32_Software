@@ -2,7 +2,7 @@
 /*********************
  *      INCLUDES
  *********************/
-#include "src/core/lv_theme.h"
+#include "lv_themes/lv_theme.h"
 
 /**********************
  *      TYPEDEFS
